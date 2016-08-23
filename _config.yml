@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - About the template for this website: "http://deanattali.com/beautiful-jekyll/"
+    - Template for this website: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
@@ -39,11 +39,11 @@ avatar: "/img/2016-08-17-profile.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  name: Guillermo Basulto-Elias
+  email: "guillermobasulto@gmail.com"
+  facebook: gbasulto  # eg. daattali
+  github: gbasulto    # eg. daattali
+  twitter: gbasultoe   # eg. daattali
   linkedin: yourname  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "gbasulto.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
