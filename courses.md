@@ -8,7 +8,7 @@ This is a list of all the courses that I have taken since I started college. Spe
  
 # Graduate Level Courses
 
-This is the list of graduate courses that I have ever taken. They sorted in decreasing chronological order.
+This is the list of graduate courses that I have ever taken. They sorted in decreasing chronological order. Description of courses at ISU can be found [here](http://catalog.iastate.edu/azcourses/stat/).
 
 | Course | Place | Instructor |
 | :------| :-----| :--------- |
@@ -36,5 +36,8 @@ This is the list of graduate courses that I have ever taken. They sorted in decr
 | Lévy Processes | CIMAT | Víctor Rivero M. |
 | Stochastic Calculus | CIMAT | Daniel Hernández H. |
 | Mathematical Statistics | CIMAT | Miguel Nakamura S. |
-| Measure Theory | CIMAT | Joaquín Ortega R. |
+| Measure Theory | CIMAT | Joaquín Ortega S. |
 
+# Undergraduate Level Courses
+
+This is the list of graduate courses that I have ever taken. They sorted in decreasing chronological order.
