@@ -4,7 +4,7 @@ title: Courses
 subtitle: A list of all the courses that I have taken since I started college
 ---
 
-This is a list of all the courses that I have taken since I started college. Specifically at the [University of Guanajuato](www.demat.ugto.mx), [CIMAT](www.cimat.mx), [CIDE](http://www.cide.edu) and [Iowa State University](www.iastate.edu).
+This is a list of all the courses that I have taken since I started college. Specifically at the [University of Guanajuato (UG)](www.demat.ugto.mx), [CIMAT](www.cimat.mx), [CIDE](http://www.cide.edu) and [Iowa State University (ISU)](www.iastate.edu).
  
 # Graduate Level Courses
 
